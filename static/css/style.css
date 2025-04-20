@@ -1,0 +1,39 @@
+/* static/css/styles.css */
+body {
+    background-color: #f4f7fa; /* Light gray background */
+    font-family: 'Arial', sans-serif; /* Custom font */
+    
+}
+
+.card {
+    background-color: #ffffff; /* White background for card */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    width: 50%;
+    position: relative;
+    left: 25%;
+    top: 20px;
+    border: 0px solid white;
+    border-radius: 10px; /* Rounded corners */
+   
+}
+
+.card-header {
+    background-color: #3498db; /* Blue background */
+    color: white;
+    height: 10vh;
+    text-align: center;
+    padding:20px;
+    
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card-footer {
+    text-align: center;
+    background-color: #ecf0f1; /* Light gray footer */
+    height: 5vh;
+    padding: 11px;
+    text-align: center;
+}
